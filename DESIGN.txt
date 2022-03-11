@@ -1,0 +1,9 @@
+Most of the functions that we went over in class, I put them where we stated.
+
+The reasoning for my placements were which data was being used the most and for the functions
+with an Entity in its name, it was usually the Entity class. The other reason was where it would logically go.
+For example, it makes sense for addEntity to go in WorldModel rather than the Entity class. Overall,
+most of them went to the Entity class or the WorldModel class (makes sense).
+
+I left a good amount of Methods in the Function class due to the fact that they were math related, created
+objects, parsing, and processing information. Things that aren't specific to one class.
